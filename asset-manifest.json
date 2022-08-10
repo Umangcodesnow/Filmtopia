@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/filmtopia/static/css/main.07fc06fc.css",
+    "main.js": "/filmtopia/static/js/main.a028f5b7.js",
+    "index.html": "/filmtopia/index.html",
+    "static/media/search.svg": "/filmtopia/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.07fc06fc.css.map": "/filmtopia/static/css/main.07fc06fc.css.map",
+    "main.a028f5b7.js.map": "/filmtopia/static/js/main.a028f5b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07fc06fc.css",
+    "static/js/main.a028f5b7.js"
+  ]
+}
